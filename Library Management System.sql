@@ -87,10 +87,5 @@ Books_id int,
   select Student_id,count(*)
   from Issue_book
   group by Student_id;
-  
-  
-  
-  
-  
-  
-  
+
+select*from Student;
